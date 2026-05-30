@@ -1,3 +1,8 @@
+# DashBoard
+
+![Dashboard]('images/Dashboard.png')
+
+
 # Entity Classification
 
 ## Strong Entities
