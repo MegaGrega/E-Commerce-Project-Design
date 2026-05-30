@@ -1,6 +1,6 @@
 # DashBoard
 
-![Dashboard]('images/Dashboard.png')
+![Dashboard](images/Dashboard.png)
 
 
 # Entity Classification
