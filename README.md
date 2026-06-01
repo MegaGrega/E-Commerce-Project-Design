@@ -1,9 +1,10 @@
 # DashBoard
 
 ![Dashboard](images/Dashboard.png)
+![Dashboard](images/Dashboard_2.png)
 
 
-# Entity Classification
+# Entity ClassificationS
 
 ## Strong Entities
 Can exist on its own.
