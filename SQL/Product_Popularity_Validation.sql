@@ -1,10 +1,8 @@
--- Validation: Product Popularity by Time Range
 SELECT 
     p.ProductID,
     p.Name AS ProductName,
     c.Name AS CategoryName,
-    SUM(ti.Quantity) AS TotalQuantitySold,
-    SUM(ti.Quantity * ti.PriceAtPurchase) AS TotalRevenue
+    SUM(ti.Quantity) AS TotalQuantitySold
 FROM Product p
 JOIN Category c ON p.CategoryID = c.CategoryID
 LEFT JOIN TransactionItem ti ON p.ProductID = ti.ProductID
