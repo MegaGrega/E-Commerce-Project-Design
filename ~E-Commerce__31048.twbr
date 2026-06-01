@@ -4016,7 +4016,7 @@
       </cards>
       <simple-id uuid='{FDB8E71A-0E52-4147-9521-A59FC43F2224}' />
     </window>
-    <window class='worksheet' maximized='true' name='Inactive Users'>
+    <window class='worksheet' name='Inactive Users'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -4203,7 +4203,7 @@
       <active id='12' />
       <simple-id uuid='{1FFE1B5F-0325-485D-96D9-38F670ECBE96}' />
     </window>
-    <window class='dashboard' name='User Dashboard'>
+    <window class='dashboard' maximized='true' name='User Dashboard'>
       <viewpoints>
         <viewpoint name='Box (2)'>
           <zoom type='entire-view' />
